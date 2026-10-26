@@ -6,4 +6,5 @@ def main():
     print(generate_pyramid(ask))
 
 if __name__ == "__main__":
+    print("Better mario! it's better because I say so.")
     main()    
